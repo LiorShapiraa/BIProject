@@ -3,4 +3,4 @@ Afeka course
 Students:
 Lior Shapira
 Naomi Shabat
-Tal Tenenboim
+Tal Tenenboim Tel Aviv
